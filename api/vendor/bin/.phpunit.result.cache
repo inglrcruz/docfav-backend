@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Controllers\\UserControllerTest::testIndexReturnsAllUsers":4,"Tests\\Controllers\\UserControllerTest::testStoreCreatesNewUser":4},"times":{"Tests\\Controllers\\UserControllerTest::testIndexReturnsAllUsers":0.002,"Tests\\Controllers\\UserControllerTest::testStoreCreatesNewUser":0}}

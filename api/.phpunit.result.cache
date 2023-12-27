@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"UserRepositoryTest::testFindAll":0.003,"UserRepositoryTest::testFindById":0.001,"UserRepositoryTest::testFindByUsername":0.001}}

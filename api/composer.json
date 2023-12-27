@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "classmap": [
+            "config/",
+            "system/",
+            "dtos/",
+            "controllers/",
+            "repositories/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="vendor/autoload.php">
+    <testsuites>
+        <testsuite name="unit">
+            <directory>tests/unit</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist>
+            <directory suffix=".php">tests/</directory>
+        </whitelist>
+    </filter>
+    <logging>
+        <log type="junit" target="tests/report.xml"/>
+    </logging>
+</phpunit>
